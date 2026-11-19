@@ -1,0 +1,80 @@
+{
+  "admin": {
+    "id": "admin-1",
+    "username": "admin",
+    "passwordHash": "$2a$12$mKQL8t//aJUPiI6fjs7KEOV147j27AEP8CdrlWQu3gtZEXw00afQG",
+    "updatedAt": "2026-11-19T11:34:09.159Z"
+  },
+  "products": [
+    {
+      "id": "68e7366f-bf9e-448f-b849-141f900a8e5d",
+      "name": "Hot dog",
+      "price": 47000000,
+      "category": "Hotdog",
+      "image": "/uploads/1795088514898-418807679.png",
+      "description": "keling va shunday mahsulotlarni yasang",
+      "createdAt": "2026-11-19T11:41:54.907Z",
+      "updatedAt": "2026-11-19T11:41:54.907Z"
+    },
+    {
+      "id": "741b9a6e-b583-498d-b3a8-f0b68ab3a0c2",
+      "name": "Royal Double Cheeseburger",
+      "price": 42000,
+      "category": "Burger",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=80",
+      "description": "Ikki qavatli 100% mol go'shtidan tayyorlangan kotlet, eritilgan chedder pishlog'i, karamellangan piyoz, tuzlangan bodring va maxsus tutunli FLAME sousi.",
+      "createdAt": "2026-11-19T11:34:08.836Z",
+      "updatedAt": "2026-11-19T11:34:08.837Z"
+    },
+    {
+      "id": "920c2212-f819-4b2a-b2b4-045d789168f6",
+      "name": "Tandir Mol Go‘shtli Lavash",
+      "price": 36000,
+      "category": "Lavash",
+      "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?auto=format&fit=crop&w=900&q=80",
+      "description": "Yupqa qarsildoq lavash xamiri ichida shirali mol go'shti bo'laklari, yangi pomidor, bodring, qarsildoq kartoshka fri va sarimsoqli qaymoqli sous.",
+      "createdAt": "2026-11-19T11:34:08.837Z",
+      "updatedAt": "2026-11-19T11:34:08.837Z"
+    },
+    {
+      "id": "501669bb-1768-40c4-bf65-829162b82326",
+      "name": "Smoky BBQ King Hotdog",
+      "price": 28000,
+      "category": "Hotdog",
+      "image": "https://images.unsplash.com/photo-1619740455993-9e612b1af08a?auto=format&fit=crop&w=900&q=80",
+      "description": "Yumshoq brioche bulochkada dudlangan mol go'shti sosiskasi, qovurilgan piyoz halqalari, xantal, BBQ sousi va eritilgan pishloq.",
+      "createdAt": "2026-11-19T11:34:08.837Z",
+      "updatedAt": "2026-11-19T11:34:08.837Z"
+    },
+    {
+      "id": "ff2a4aae-0155-4e1e-a39c-a62704724297",
+      "name": "Spicy Jalapeño Fire Burger",
+      "price": 45000,
+      "category": "Burger",
+      "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?auto=format&fit=crop&w=900&q=80",
+      "description": "Achchiq ta'm shinavandalari uchun: olovda pishgan go'sht, jalapeño qalampiri, pepper jack pishlog'i va maxsus achchiq chili mayonez.",
+      "createdAt": "2026-11-19T11:34:08.837Z",
+      "updatedAt": "2026-11-19T11:34:08.837Z"
+    },
+    {
+      "id": "6772ddc8-4e8e-415d-9845-f7db3d613c99",
+      "name": "Pishloqli Tovuqli Lavash",
+      "price": 33000,
+      "category": "Lavash",
+      "image": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=900&q=80",
+      "description": "Maxsus ziravorlarda marinadlangan tovuq filesi, ikki xil eritilgan pishloq, yangi sabzavotlar va firmenniy sous.",
+      "createdAt": "2026-11-19T11:34:08.837Z",
+      "updatedAt": "2026-11-19T11:34:08.837Z"
+    },
+    {
+      "id": "15165771-6dd7-4816-8691-6ea27f86484a",
+      "name": "Double Cheese Chili Hotdog",
+      "price": 31000,
+      "category": "Hotdog",
+      "image": "https://images.unsplash.com/photo-1541214113241-21578d2d9b62?auto=format&fit=crop&w=900&q=80",
+      "description": "Ikki barobar pishloqli sous, mol go'shtli qiyma chili, yangi ko'katlar va qarsildoq piyoz bilan boyitilgan premium hotdog.",
+      "createdAt": "2026-11-19T11:34:08.837Z",
+      "updatedAt": "2026-11-19T11:34:08.837Z"
+    }
+  ]
+}

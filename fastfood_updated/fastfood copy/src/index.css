@@ -1,0 +1,28 @@
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Outfit', sans-serif;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #fffbeb;
+}
+::-webkit-scrollbar-thumb {
+  background: #b91c1c;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #7f1d1d;
+}
